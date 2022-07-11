@@ -1,0 +1,36 @@
+[
+  {
+    "bookingId": "9b2cc12a-2b62-4cea-88ef-0128a22a1cc8",
+    "brandCode": "GAP",
+    "marketCode": "US",
+    "channelCode": "RTL",
+    "bookingState": "DRAFT",
+    "bookingPeriod": "SUMMER",
+    "bookingPeriodYear": 2021,
+    "inDcDate": "2020-05-08",
+    "wpReceiptUnits": 0,
+    "cpReceiptUnits": null,
+    "cpPublishedUnits": null,
+    "cpPublishedDate": null,
+    "universalCustomerChoiceNumber": "000488109009",
+    "universalStyleNumber": "488109",
+    "flowDate": "2019-10-21"
+  },
+  {
+    "bookingId": "0ed6623e-9821-4c55-898d-72d6d76dfc68",
+    "brandCode": "GAP",
+    "marketCode": "US",
+    "channelCode": "RTL",
+    "bookingState": "CONFIRMED",
+    "bookingPeriod": "SUMMER",
+    "bookingPeriodYear": 2021,
+    "inDcDate": "2020-06-05",
+    "wpReceiptUnits": 0,
+    "cpReceiptUnits": 130,
+    "cpPublishedUnits": 130,
+    "cpPublishedDate": "2019-11-14T18:47:08.258Z",
+    "universalCustomerChoiceNumber": "000488109008",
+    "universalStyleNumber": "488109",
+    "flowDate": "2019-10-21"
+  }
+]
